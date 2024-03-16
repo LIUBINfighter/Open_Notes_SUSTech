@@ -28,6 +28,9 @@ CS112        Python程序设计
 STA217      数据科学导论
 STA204      离散数学及其应用
 
+#### 仓库插件说明
+本仓库使用Obsidian编辑，相关插件及设置位于~\\.obsidian文件夹中
+PDF break page - 将markdown文件导出成PDF文件使用的分页插件
 #### 联系方式
 E-mail /
 QQ     1465101364
