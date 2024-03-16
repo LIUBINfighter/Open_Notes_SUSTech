@@ -1,0 +1,21 @@
+{
+  "showLineNumber": true,
+  "spellcheckLanguages": null,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newFileFolderPath": "00_Inbox_收集箱",
+  "attachmentFolderPath": "./Attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "newLinkFormat": "shortest",
+  "promptDelete": false,
+  "showUnsupportedFiles": true
+}

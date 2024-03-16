@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "b3606c1e9c7b5561",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9b048a1eb9a0ca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436e89ff7bd23ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c73afb3b30ffb9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b2c7d8607af426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9449b376ed027788",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a8f092c1dd74bd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TPL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "5f1fdd74719f4076",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "f9e0cd33ea20ab3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3114f4f5297c56ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "002387f34f3e371e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0dba6765a72bf1ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20f4cff560e7683e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6b440e9dc981ca1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "e435a3ddc970f830",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "436e89ff7bd23ded",
+  "lastOpenFiles": [
+    "Open_Notes_SUSTech",
+    "Open_Notes_SUSTech/README.md",
+    "Daily_Writing/2024-03-16-星期六.md",
+    "Daily_Writing/2024-03-15-星期五.md",
+    "Daily_Writing/Attachments/CTex宏集包手册.pdf",
+    "Daily_Writing/Attachments/Assignment 4.pdf",
+    "Daily_Writing/Attachments/HW1-社会主义国家如何管理资本和金融.png",
+    "Daily_Writing/week4/2024-03-14-星期四.md",
+    "Daily_Writing/week4/2024-03-11-星期一.md",
+    "Daily_Writing/week4/2024-03-12-星期二.md",
+    "Daily_Writing/week4/2024-03-13-星期三.md",
+    "Daily_Writing/week4",
+    "Task-lists.md",
+    "Course/Calculues/Attachments/Week3-TA3-Q51 Possible Answer.png",
+    "Course/Calculues/Attachments/Week3-TA3-Q51-Possible Answer.jpg",
+    "Course/Calculues/Attachments/147b10cd841fbf636a77b56db55df314.jpg",
+    "Course/Calculues/Attachments/Week.jpg",
+    "Draft.md",
+    "Course/Calculues/Calculus Ⅱ Week4 TA.md",
+    "Course/Calculues/Attachments/TA-4supple Q21 积分法.jpg",
+    "Course/Calculues/Attachments/Calculus-TA-Week4.jpg",
+    "Course/Calculues/Attachments",
+    "Daily_Writing/进击的巨人-憧憬与尸骸之路.md",
+    "ML&Data_Science/MIS110/Lec Note.md",
+    "output-PDF/统计系人脉-pdf.pdf",
+    "Infomation/统计系人脉.md",
+    "Infomation/统计系人脉-公开版.md",
+    "Infomation/统计系人脉 - 副本.md",
+    "Atoms/AI/AN-94讲统计学.md",
+    "Infomation/Transfer/PhD的申请规则纯文档版.md",
+    "Daily_Writing/统计之都文章阅读-生物统计学访谈-24-3-9.md",
+    "Course/Finance/FIN204/Microeconomics.md",
+    "ML&Data_Science/MIS110/ML_intro_slides.pdf",
+    "ML&Data_Science/MIS110/Attachments/Pasted image 20240313192201.png",
+    "ML&Data_Science/MIS110/Attachments/Assessing Predictive 2.png",
+    "ML&Data_Science/MIS110/Attachments/{{fileNameKey}}-1.png",
+    "Course/Finance/FIN204/Lec 6 - Chap6 The Open Economy.pdf",
+    "Course/Finance/FIN204/Macroeconomics 10th Edition by Mankiw.pdf",
+    "Course/Finance/FIN204/FIN204 宏观经济学 课程目录.md",
+    "Course/Finance/FIN204/Attachments",
+    "Course/Finance/FIN204/FIN204-Week3-Ch4-12310903刘华杰.md",
+    "Course/Finance/FIN204/FIN204-Week2-Ch3-12310903刘华杰.md",
+    "Course/Finance/FIN204/FIN204-Week1-Ch2-12310903刘华杰.md",
+    "Daily_Writing/数学草稿.md",
+    "Daily_Writing/防护.md",
+    "00_常用系统/Template/未使用的系统/个人知识系统目录/obsidian_vault_template_for_graduate_student/03-Projects/99-使用obsidian搞科研/使用obsidian搞科研.canvas",
+    "00_常用系统/Template/未使用的系统/个人知识系统目录/obsidian_vault_template_for_graduate_student/00-MOC/文献阅读白板.canvas"
+  ]
+}
