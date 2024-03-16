@@ -1,5 +1,5 @@
 - 相关文件近期上传
-本仓库为南方科技大学 23级 本科生 刘斌 课程Notes和Project存档
+- 本仓库为南方科技大学 23级 本科生 刘斌 课程Notes和Project存档
 目前仅测试用（Obsidian和git工作流搭建）
 #### 如何使用
 工作流待打磨
@@ -30,7 +30,7 @@ STA204      离散数学及其应用
 
 #### 仓库插件说明
 本仓库使用Obsidian编辑，相关插件及设置位于.obsidian文件夹中
-PDF break page - 将markdown文件导出成PDF文件使用的分页插件
+- PDF break page - 将markdown文件导出成PDF文件使用的分页插件
 #### 联系方式
 E-mail /
 QQ     1465101364
