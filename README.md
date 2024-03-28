@@ -3,6 +3,11 @@
 目前仅测试用（Obsidian和git工作流搭建）
 #### 如何使用
 工作流待打磨
+- MA127 高等数学 下
+文件夹里有每次课内作业、补充习题的pdf文档，尽量编排得适合做题、写过程、批注和复习。
+
+源代码为obsidian编辑模式下的markdown文件，需要插件Multi-Column Markdown查看分栏效果。无需其他插件即可查看和编辑。
+
 markdown文件结合Obsidian阅读，方便实现Atoms内部跳转
 代码大部分将以ipynb格式，建议结合Jupyter Lab食用
 #### 组织形式
