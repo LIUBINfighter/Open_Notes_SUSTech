@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 317.5
   },
   "right": {
     "id": "f9e0cd33ea20ab3c",
@@ -162,7 +162,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "436e89ff7bd23ded",
+  "active": "9449b376ed027788",
   "lastOpenFiles": [
     "MA127-Calculus_2/Calculus Ⅱ Week4 HW-Questions.pdf",
     "MA127-Calculus_2/Answer_Midterm I for Calculus II in Spring Semester, 2018.pdf",
