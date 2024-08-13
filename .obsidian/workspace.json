@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9b048a1eb9a0ca8",
+        "id": "9b3199e472d0a323",
         "type": "tabs",
         "children": [
           {
-            "id": "436e89ff7bd23ded",
+            "id": "2d87a06d7ecb83b7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "FIN204-Macroeconomics/草稿一稿-宏观经济学期末报告.pdf"
+                "file": "推荐给新生的网站-2024年秋.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FIN204-Macroeconomics/草稿一稿-宏观经济学期末报告.pdf",
+                "file": "推荐给新生的网站-2024年秋.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FIN204-Macroeconomics/草稿一稿-宏观经济学期末报告.pdf",
+                "file": "推荐给新生的网站-2024年秋.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FIN204-Macroeconomics/草稿一稿-宏观经济学期末报告.pdf"
+                "file": "推荐给新生的网站-2024年秋.pdf"
               }
             }
           },
@@ -159,8 +159,12 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9449b376ed027788",
+  "active": "2d87a06d7ecb83b7",
   "lastOpenFiles": [
+    "README.md",
+    "FIN204-Macroeconomics/草稿一稿-宏观经济学期末报告.pdf",
+    "FIN204-Macroeconomics/FIN204-Week13-Ch14-12310903刘华杰.pdf",
+    "MA127-Calculus_2/Calculus Ⅱ Week7 HW-extraQuestions.pdf",
     "推荐给新生的网站-2024年秋.pdf",
     "MA127-Calculus_2/Calculus Ⅱ Week5 HW-Questions.pdf",
     "MA127-Calculus_2/Calculus Ⅱ Week5 extraHW-Questions.md",
@@ -170,12 +174,7 @@
     "MA127-Calculus_2/Calculus Ⅱ Week4 HW-Questions.pdf",
     "MA127-Calculus_2/Answer_Midterm I for Calculus II in Spring Semester, 2018.pdf",
     "MA127-Calculus_2/Calculus Ⅱ Week5 HW-Questions.md",
-    "README.md",
     "MA127-Calculus_2",
-    "FIN204-Macroeconomics",
-    "MIS110-Introduction_to_Machine_Learning_and_Big_Data_Analytics/MIS110.pdf",
-    "MIS110-Introduction_to_Machine_Learning_and_Big_Data_Analytics",
-    "MIS110/MIS110.pdf",
     "Calculus/Calculus Ⅱ Week4 HW-Questions.md",
     "Open_Notes_SUSTech/README.md",
     "Daily_Writing/2024-03-16-星期六.md",
