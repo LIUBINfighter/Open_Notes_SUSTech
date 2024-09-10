@@ -11,9 +11,12 @@
             "id": "2d87a06d7ecb83b7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "推荐给新生的网站-2024年秋.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐给新生的网站-2024年秋.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐给新生的网站-2024年秋.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "推荐给新生的网站-2024年秋.pdf"
+                "file": "README.md"
               }
             }
           },
@@ -159,8 +162,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9449b376ed027788",
+  "active": "2d87a06d7ecb83b7",
   "lastOpenFiles": [
+    "推荐给新生的网站-2024年秋.pdf",
     "MA113_Linear_Algebra/（答案）24 Spring Midterm Answer 线代24春期中试题 发布版.pdf",
     "MA113_Linear_Algebra/24 Spring Midterm Answer 线代24春期中试题答案 发布版.pdf",
     "MA113_Linear_Algebra/24 Spring Midterm Question 线代24春期中试题 发布版.pdf",
@@ -173,7 +177,6 @@
     "README.md",
     "FIN204_Macroeconomics/草稿一稿-宏观经济学期末报告.pdf",
     "FIN204_Macroeconomics/FIN204-Week13-Ch14-12310903刘华杰.pdf",
-    "MA127_Calculus_2/Calculus Ⅱ Week7 HW-extraQuestions.pdf",
     "MA127_Calculus_2/Calculus Ⅱ Week5 extraHW-Questions.md",
     "MA127_Calculus_2/Calculus Ⅱ Week4 HW-Questions.md",
     "MA127_Calculus_2/Calculus Ⅱ Week5 HW-Questions.md",
